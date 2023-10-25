@@ -1,0 +1,6 @@
+• ctrl + a : sélection de tous le contenu d’un document
+• ctrl + v : coller une sélection en mémoire
+• ctrl + x : couper une sélection
+• ctrl + c : copier une sélection
+• ctrl + z : annuler l’opération précédente. Son contraire 
+ctrl + y
